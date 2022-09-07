@@ -57,14 +57,14 @@ export default MovieBox;
 const styles = StyleSheet.create({
     textStyle:{
         fontSize:10,
-        color:'#333333',
+        color:'#fffaf0',
         alignItems:'center',
         justifyContent:'center',
         textAlign: 'left',
     },
     Title:{
         fontSize: 16,
-        color:'#333333',
+        color:'#fffaf0',
         fontWeight: 'bold',
         textAlign:'center',
         justifyContent:'center',
